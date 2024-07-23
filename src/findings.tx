@@ -1,5 +1,0 @@
-// to calculate the amount of continuous tokens one receives for a given number of reserve tokens:
-// PurchaseReturn = ContinuousTokenSupply * ((1 + ReserveTokensReceived / ReserveTokenBalance) ^ (ReserveRatio) - 1)
-
-// amount of reserve tokens one receives in exchange for a given number of continuous tokens:
-// SaleReturn = ReserveTokenBalance * (1 - (1 - ContinuousTokensReceived / ContinuousTokenSupply) ^ (1 / (ReserveRatio)))
