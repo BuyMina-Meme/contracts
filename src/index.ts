@@ -1,3 +1,3 @@
-import { Add } from './Add.js';
+import { FungibleBMM } from './fungible.js';
 
-export { Add };
+export { FungibleBMM };
